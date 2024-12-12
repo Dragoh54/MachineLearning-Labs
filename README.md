@@ -5,4 +5,10 @@
 <P>Completed</P>
 <br>
 <H1>Lab 3</H1>
+<P>Completed</P>
+<br>
+<H1>Lab 4</H1>
+<P>Completed</P>
+<br>
+<H1>Lab 5</H1>
 <P>In progress</P>
