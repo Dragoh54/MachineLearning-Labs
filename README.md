@@ -11,4 +11,7 @@
 <P>Completed</P>
 <br>
 <H1>Lab 5</H1>
+<P>Completed</P>
+<br>
+<H1>Lab 6</H1>
 <P>In progress</P>
